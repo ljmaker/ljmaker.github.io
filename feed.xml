@@ -508,7 +508,7 @@ void  loop() {
             <summary>
                 <![CDATA[
                         <img src="https://ljmaker.github.io/media/posts/7/ASTROPic1-2.jpg" alt="" />
-                    During my junior year I was a student research assistant in CRTA, a robotics lab in my faculty. I helped&hellip;
+                    During my junior year I was a student assistant in CRTA, a robotics lab in my faculty. I helped build&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -516,7 +516,7 @@ void  loop() {
                     <p><img src="https://ljmaker.github.io/media/posts/7/ASTROPic1-2.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    During my junior year I was a student research assistant in CRTA, a robotics lab in my faculty. I helped build ASTRO, an autonomous robot which will be used in some courses to help students learn ROS2 and automation. My job was to help with hardware assembly and use ROS2 to simulate the robot and its environment
+    During my junior year I was a student assistant in CRTA, a robotics lab in my faculty. I helped build ASTRO, an autonomous robot which will be used in some courses to help students learn ROS2 and automation. My job was to help with hardware assembly and use ROS2 to simulate the robot and its environment
   </p>
 
     <figure class="post__image post__image--center">
@@ -1248,6 +1248,19 @@ plt.show()</code></pre>
     </figure>
     </div>
   </div>
+
+  <p>
+    I made a hierarchical schematic for the driver board because it was the easiest way for me to add all 6 of the individual driver modules while keeping it well organised&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://ljmaker.github.io/media/posts/5/Screenshot-2025-03-20-225157.png" height="668" width="990" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://ljmaker.github.io/media/posts/5/responsive/Screenshot-2025-03-20-225157-xs.png 384w ,https://ljmaker.github.io/media/posts/5/responsive/Screenshot-2025-03-20-225157-sm.png 600w ,https://ljmaker.github.io/media/posts/5/responsive/Screenshot-2025-03-20-225157-md.png 768w ,https://ljmaker.github.io/media/posts/5/responsive/Screenshot-2025-03-20-225157-lg.png 1200w ,https://ljmaker.github.io/media/posts/5/responsive/Screenshot-2025-03-20-225157-xl.png 1600w">
+      
+    </figure>
+
+  <p>
+    
+  </p>
 
   <p id="since-i-dont-have-all-the-necessary-components-i-made-a-simple-driver-board-can-only-control-3-motor-at-a-time-because-arduino-uno-doesnt-have-enough-pins-for-all-6-the-one-on-the-right-was-a-test-run-for-the-bigger-board">
     Since I don't have all the necessary components, I made a simple driver board can only control 3 motor at a time because Arduino UNO doesn't have enough pins for all 6. The one on the right was a test run for the bigger board. It is powered with an old ATX power supply I took out from an old computer I had lying around
