@@ -423,7 +423,7 @@ void stopMotors() {
       <a href="https://ljmaker.github.io/media/posts/4/gallery/TempTry1-2.png" data-size="1280x963">
         <img loading="lazy" src="https://ljmaker.github.io/media/posts/4/gallery/TempTry1-2-thumbnail.png" height="578" width="768" alt="" >
       </a>
-      <figcaption>Second board han an arduino pro mini as an onboard microcontroller. I didn't like this design because a lot of pins weren't utilised</figcaption>
+      <figcaption>Second board had an arduino pro mini as an onboard microcontroller. I didn't like this design because a lot of pins weren't utilised</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://ljmaker.github.io/media/posts/4/gallery/TempFinal-2.png" data-size="1280x963">
         <img loading="lazy" src="https://ljmaker.github.io/media/posts/4/gallery/TempFinal-2-thumbnail.png" height="578" width="768" alt="" >
