@@ -1252,8 +1252,24 @@ plt.show()</code></pre>
     </figure>
 
   <p>
-    My planetary drive
+    My planetary drives
   </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://ljmaker.github.io/media/posts/5/gallery/Screenshot-2025-03-28-001558.png" data-size="863x689">
+        <img loading="lazy" src="https://ljmaker.github.io/media/posts/5/gallery/Screenshot-2025-03-28-001558-thumbnail.png" height="613" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://ljmaker.github.io/media/posts/5/gallery/Screenshot-2025-03-28-002132.png" data-size="750x688">
+        <img loading="lazy" src="https://ljmaker.github.io/media/posts/5/gallery/Screenshot-2025-03-28-002132-thumbnail.png" height="688" width="750" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
 <div><iframe loading="lazy" 
   src="https://drive.google.com/file/d/11HXBIqOPpE0uNU0JRdpEstB-0TcArew9/preview" 
   width="640" 
